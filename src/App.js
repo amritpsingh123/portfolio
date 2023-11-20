@@ -56,7 +56,8 @@ strong willingness to learn.</p>
   <img src={avatar} className="card-img-top" alt="..."/>
   <div className="card-body">
     <h5 className="card-title">Random Avatar Generator</h5>
-    <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p className="card-text">In this project we show the concepts of Router DOM and Creating, updating, deleting ,reading(CRUD) operation of the data.
+     Faker.js plugin is integrated for avatar generation.</p>
     <a href="https://random-avatar-maker.netlify.app/" className="btn btn-primary" target='blank'>Go To Project</a>
   </div>
 </div>
@@ -64,7 +65,8 @@ strong willingness to learn.</p>
   <img src={meme} className="card-img-top" alt="..."/>
   <div className="card-body">
     <h5 className="card-title">Meme App</h5>
-    <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p className="card-text">A simple meme app displays various memes in a page by using array indexing. Memes sourced from <a href="https://imgflip.com/api">https://imgflip.com/api" </a> 
+    using fetch https request.</p>
     <a href="https://randomemegenerators.netlify.app/" className="btn btn-primary" target='blank'>Go To Project</a>
   </div>
 </div>
